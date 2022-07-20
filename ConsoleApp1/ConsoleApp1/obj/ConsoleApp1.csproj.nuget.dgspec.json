@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UserW10\\Desktop\\amdaris\\amdaris\\SecondUser\\amdaris\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\UserW10\\Desktop\\amdaris\\amdaris\\FirstUser\\amdaris\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UserW10\\Desktop\\amdaris\\amdaris\\SecondUser\\amdaris\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\UserW10\\Desktop\\amdaris\\amdaris\\FirstUser\\amdaris\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UserW10\\Desktop\\amdaris\\amdaris\\SecondUser\\amdaris\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\UserW10\\Desktop\\amdaris\\amdaris\\FirstUser\\amdaris\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\UserW10\\Desktop\\amdaris\\amdaris\\SecondUser\\amdaris\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\UserW10\\Desktop\\amdaris\\amdaris\\FirstUser\\amdaris\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\UserW10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UserW10\\Desktop\\amdaris\\amdaris\\SecondUser\\amdaris\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\UserW10\\Desktop\\amdaris\\amdaris\\FirstUser\\amdaris\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\UserW10\\AppData\\Roaming\\NuGet\\NuGet.Config",
